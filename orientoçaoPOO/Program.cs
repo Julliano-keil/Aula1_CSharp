@@ -9,9 +9,5 @@ class Program
         public int candidato3 { get; set; }
 
     }
-    public Eleicao()
-    {
-        joao = "[122]"
-       
-    }
+    
 }
